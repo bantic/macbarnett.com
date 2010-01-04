@@ -105,9 +105,9 @@ img.more {
   width: 600px;
 }
 iframe {
-  position:absolute; 
-  top:154px; 
-  left:368px;
+  position:relative; 
+  top:-470px;
+  left:70px;
   width: 640px;
 }
 
