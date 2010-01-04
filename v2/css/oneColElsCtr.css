@@ -111,6 +111,6 @@ iframe {
   width: 640px;
 }
 
-img { 
-  behavior: url(../scripts/iepngfix.htc) ;
+img, div { 
+  behavior: url(../scripts/iepngfix.htc);
 }
