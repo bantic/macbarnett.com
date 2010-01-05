@@ -114,3 +114,8 @@ iframe {
 img, div { 
   behavior: url(../scripts/iepngfix.htc);
 }
+
+#footer {
+  width: 950px;
+  text-align:right;
+}
