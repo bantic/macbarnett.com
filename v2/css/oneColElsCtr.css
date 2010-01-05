@@ -118,4 +118,8 @@ img, div {
 #footer {
   width: 950px;
   text-align:right;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  font-size: 11px;
 }
